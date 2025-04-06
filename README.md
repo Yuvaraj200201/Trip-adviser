@@ -20,4 +20,4 @@ A static webpage replicating the design and layout of TripAdvisor's website, opt
 - Integration with Google Maps API
 - Improved accessibility features
 
-Link:
+Link:https://yuvaraj200201.github.io/Trip-adviser/
